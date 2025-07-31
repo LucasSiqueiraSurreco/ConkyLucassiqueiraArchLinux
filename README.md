@@ -1,6 +1,6 @@
 # Conky
 
-![preview](./conky.png)
+![preview](./images/conky.png)
 
 
 
